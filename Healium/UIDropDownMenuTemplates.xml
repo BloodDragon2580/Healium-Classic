@@ -206,9 +206,9 @@
 							tile = true,
 							bgFile = "Interface\\DialogFrame\\UI-DialogBox-Background-Dark",
 							tileSize  = 32,
-							edgeFile = "Interface\\Tooltips\\UI-Tooltip-Border",
+							edgeFile = "Interface\\DialogFrame\\UI-DialogBox-Border", 
 							edgeSize = 32,
-							insets = {left = 11, right = 12, top = 12, bottom = 9},
+							insets = {left = 5, right = 5, top = 5, bottom = 5},
 						})							
 					</OnLoad>
 				</Scripts>				
