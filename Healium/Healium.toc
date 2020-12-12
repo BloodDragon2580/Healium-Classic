@@ -1,7 +1,7 @@
-## Interface: 11305
+## Interface: 11306
 ## Title: |cffd6266cHealium|r
 ## Notes: A healing user-interface addon that provides up to 15 customizable buttons next to each party or raid members name.  Based on FB Healbox.
-## Version: 1.0.2
+## Version: 1.0.3
 ## SavedVariables: HealiumGlobal
 ## SavedVariablesPerCharacter: Healium
 ## Globe: check-classic
